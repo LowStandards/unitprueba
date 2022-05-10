@@ -9,8 +9,7 @@ import static org.hamcrest.Matchers.*;
 
 public class calculadoratest {
 	public calculadora micalculadora;
-
-	@Before
+	
 	public void setUp() throws Exception {
 		micalculadora = new calculadora();
 	}
