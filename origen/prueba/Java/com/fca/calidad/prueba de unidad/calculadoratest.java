@@ -20,7 +20,7 @@ public class calculadoratest {
 	@Test
 	public void sumatest() {
 		double resultadoejecucion = micalculadora.suma(1, 3);
-		double resultadoesperado = 777;		
+		double resultadoesperado = ;		
 		assertThat(resultadoejecucion, is(resultadoesperado));
 	}
 	
