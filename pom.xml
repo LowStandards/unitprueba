@@ -24,9 +24,7 @@
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>4.11</version>
-      <scope>test</scope>
-    </dependency>
-    
+      <scope>test</s    
     <!-- https://mvnrepository.com/artifact/org.hamcrest/hamcrest-all -->
 <dependency>
     <groupId>org.hamcrest</groupId>
